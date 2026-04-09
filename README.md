@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Bruno Brandão
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-💻 Apaixonado por tecnologia, programação e análise de sistemas
-🚀 Estou sempre em busca de aprender novas tecnologias, e busco uma oportunidade na área de TI
+💻 Apaixonado por Tecnologia, Programação e Análise de Sistemas
+🚀 Estou sempre em busca de aprender novas Tecnologias, e busco uma oportunidade na área de TI como Analista de Sistemas
 
 ---
 
