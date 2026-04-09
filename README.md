@@ -15,43 +15,41 @@ Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas e es
 
 ---
 
-## 🚀 Tecnologias que eu uso
+## 🚀 HABILIDADES TÉCNICAS
 
-💻 Linguagens e ferramentas:
+💻 Linguagens:
 
 * JavaScript
+* Java
 * Python
-* C / C++ (Arduino)
+* HTML / CSS
 * SQL
 * Git e GitHub
 
-🔧 Outras tecnologias:
+🔧 Outras habilidades:
 
-* ESP32
-* Arduino
-* MQTT
-* Banco de Dados
-* Excel (nível básico/intermediário)
+* Suporte técnico ao usuário
+* Sistemas ERP Consinco - TOTVS
+* Abertura e gestão de chamados
+* Pacote Office
+* Lógica de programação
+* Instalação e manutenção de computadores
 
 ---
 
 ## 📌 Projetos em destaque
 
-🔹 **Nome do Projeto 1**
-Breve descrição do projeto (o que ele faz e qual problema resolve)
-🔗 Link: (coloque aqui)
+🔹 **Planejamento Financeiro Sólido**
+Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais que permita aos usuários controlar suas receitas, despesas, investimentos e economias de forma eficiente. O sistema será construído utilizando a linguagem de programação Python e o banco de dados MySQL para armazenamento e manipulação dos dados financeiros dos usuários
+
+🔗 Link: (https://github.com/Pratica-Mackenzie-5-Semestre/Pratica-Mackenzie-5-Semestre)
 
 ---
 
-🔹 **Nome do Projeto 2**
-Breve descrição do projeto
-🔗 Link: (coloque aqui)
-
----
-
-🔹 **Nome do Projeto 3**
-Breve descrição do projeto
-🔗 Link: (coloque aqui)
+🔹 **Projeto Iluminação Inteligente**
+O sistema será capaz de acender as luzes automaticamente ao detectar movimento, apagar na ausência de atividade e permitir o controle remoto, possibilitando a gestão das luzes a partir de um dispositivo móvel.
+🔗 Link para o vídeo do projeto no Yotube: (https://studio.youtube.com/video/nJRmUH-AQ4c/edit)
+🔗 Link do repositrio git: (https://github.com/thalim3/IoT-objetos_inteligentes)
 
 ---
 
@@ -61,9 +59,9 @@ Breve descrição do projeto
 
 ## 📫 Como me encontrar
 
-* 💼 LinkedIn: (coloque seu link aqui)
-* 📧 Email: (seu email aqui)
-* 📱 WhatsApp: (opcional)
+* 💼 LinkedIn: (https://www.linkedin.com/in/brunobrandaocostasilva/)
+* 📧 Email: (bruno.error4048@gmail.com)
+* 📱 WhatsApp: (11987895142)
 
 ---
 
