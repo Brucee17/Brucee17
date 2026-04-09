@@ -49,7 +49,7 @@ Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais 
 🔹 **Projeto Iluminação Inteligente**
 O sistema será capaz de acender as luzes automaticamente ao detectar movimento, apagar na ausência de atividade e permitir o controle remoto, possibilitando a gestão das luzes a partir de um dispositivo móvel.
 
-🔗 Link para o vídeo do projeto no Yotube: ([https://studio.youtube.com/video/nJRmUH-AQ4c/edit](https://www.youtube.com/watch?v=nJRmUH-AQ4c))
+🔗 Link para o vídeo do projeto no Yotube: (https://www.youtube.com/watch?v=nJRmUH-AQ4c)
 
 🔗 Link do repositrio git: (https://github.com/thalim3/IoT-objetos_inteligentes)
 
