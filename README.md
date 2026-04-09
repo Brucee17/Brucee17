@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Bruno Brandão
+# 👋 Olá, eu sou Bruno Brandão Costa Silva
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 💻 Apaixonado por Tecnologia, Programação e Análise de Sistemas
@@ -8,7 +8,8 @@
 
 ## 🧠 Sobre mim
 
-Sou um profissional em início de carreira na área de tecnologia, com experiência prática em projetos acadêmicos e grande interesse em desenvolvimento de sistemas e soluções com IoT.
+Sou um profissional em início de carreira na área de tecnologia, com experiência prática em projetos acadêmicos e grande interesse em atuar como Analista de Sistemas. Utilizei por quase 7 anos o sistema ERP (Consinco - TOTVS) no Supermercado Rossi para diversas atividades, incluindo realização de pedidos de compra,
+consulta de vendas, controle de estoque, transferência de produtos entre lojas e abertura de chamados para manutenção de equipamentos, adquirindo experiência prática com sistemas corporativos e rotinas administrativas.
 
 Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas e estou sempre buscando evoluir minhas habilidades técnicas e profissionais.
 
